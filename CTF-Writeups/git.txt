@@ -1,0 +1,4 @@
+
+1.根目录添加子文件夹git add CTF-Writeups/
+2.创建提交git commit -m 说明
+3.git push -u origin master 发车
